@@ -2,10 +2,10 @@
 
 一键脚本
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/thelichen/VPS-ROOT/main/root.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/vivihod/VPS-ROOT/main/root.sh)
 ```
 或
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/thelichen/VPS-ROOT/main/root.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/vivihod/VPS-ROOT/main/root.sh)
 ```
 
